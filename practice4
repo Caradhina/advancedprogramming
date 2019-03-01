@@ -1,5 +1,6 @@
+Name: Zolboo
+Date: 2019-03-01
 fun main(args: Array<String>) {
-	print("Name: Zolboo Date: 2019-03-01\n")
     val x = 90
     val y = 80
     val z = 80
