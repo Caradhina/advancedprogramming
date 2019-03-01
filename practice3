@@ -1,5 +1,5 @@
-Name: Zolboo
-Date: 2019-03-01
+//Name: Zolboo
+//Date: 2019-03-01
 fun main(args: Array<String>) {
     val x = 5
     val y = 2
