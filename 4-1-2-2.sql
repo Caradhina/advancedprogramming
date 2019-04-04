@@ -1,0 +1,1 @@
+SELECT *FROM superheroes where gender = "F"
